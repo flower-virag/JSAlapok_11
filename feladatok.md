@@ -2,7 +2,7 @@
 
 1. Írd át a `focim` azonosítójú főcím tartalmát „Mátrix rendszer”-re a `getElementById()` metódussal!
 2. Jelöld ki a `statusz-szoveg` osztályú elemeket a `getElementsByClassName()` metódussal, és tárold a kapott elemlistát a `statuszElemek` változóban!
-3. Írd ki a konzolra, hogy hány elemet tartalmaz a `statuszElemek` lista!
+3.  ki a konzolra, hogy hány elemet tartalmaz a `statuszElemek` listaÍrd!
 4. Írd át a lista első elemének szövegét „Rendszer ellenőrzése folyamatban...” szövegre! Az elemet az indexével érd el!
 5. Írd át a lista második elemének szövegét „Kapcsolódás a hálózathoz...” szövegre!
 6. Jelöld ki az összes `lista-elem` osztályú elemet a `querySelectorAll()` metódussal, és tárold a kapott elemlistát a `listaElemek` változóban!
